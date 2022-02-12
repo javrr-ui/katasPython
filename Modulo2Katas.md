@@ -17,3 +17,13 @@ env/Scripts/activate
 ```
 
 ![](assets/images/activate.JPG)
+
+## Instalar una biblioteca
+
+Ejecuta el comando `pip freeze` para ver las bibliotecas instaladas en tu entorno
+
+```
+pip freeze
+```
+
+![](assets/images/pip-freeze.JPG)
