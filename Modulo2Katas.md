@@ -27,3 +27,11 @@ pip freeze
 ```
 
 ![](assets/images/pip-freeze.JPG)
+
+Ejecuta el comando `pip install` para instalar una biblioteca:
+
+```
+pip install python-dateutil
+```
+
+![](assets/images/pip-install.JPG)
