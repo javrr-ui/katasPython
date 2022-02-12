@@ -17,6 +17,7 @@ env/Scripts/activate
 ```
 
 ![](assets/images/activate.JPG)
+<<<<<<< HEAD
 
 ## Instalar una biblioteca
 
@@ -27,3 +28,5 @@ pip freeze
 ```
 
 ![](assets/images/pip-freeze.JPG)
+=======
+>>>>>>> d445fcb6ff427a544e88f7006f0244e338611eca
