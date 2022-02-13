@@ -40,3 +40,9 @@ Vuelve a ejecutar `pip freeze` para ver cómo ha cambiado tu lista de biblioteca
 
 ![](assets/images/pip-freeze2.JPG)
 
+
+## Desactivar un entorno virtual
+
+Ejecuta el comando `deactivate`
+
+![](assets/images/deactivate.JPG)
