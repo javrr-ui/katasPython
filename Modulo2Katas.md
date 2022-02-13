@@ -35,3 +35,8 @@ pip install python-dateutil
 ```
 
 ![](assets/images/pip-install.JPG)
+
+Vuelve a ejecutar `pip freeze` para ver cómo ha cambiado tu lista de bibliotecas
+
+![](assets/images/pip-freeze2.JPG)
+
